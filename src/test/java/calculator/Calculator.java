@@ -14,7 +14,7 @@ public class Calculator {
 	int result;
 	int num1;
 	int num2;
-	
+	////asdfa oooossssmmmmaaan
 	public static double Operate(String operation, double num1, double num2){
 		double result=0.0;
 		
